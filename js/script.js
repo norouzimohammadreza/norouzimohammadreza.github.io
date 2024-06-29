@@ -1,5 +1,5 @@
 function runTypingEffect(){
-    const text = 'Im Reza Norouzi';
+    const text = 'I am Reza Norouzi';
     const typingElement = document.getElementById('typing-text'); 
     const delay = 100;
 
